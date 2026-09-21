@@ -1,0 +1,65 @@
+[
+  {
+    "id": "kat-nisan",
+    "slug": "nisan-soz",
+    "ad": "Nişan & Söz",
+    "aciklama": "Söz ve nişan günleriniz için zarif sunumlar.",
+    "kapakGorsel": "",
+    "sira": 1,
+    "aktif": true
+  },
+  {
+    "id": "kat-dugun",
+    "slug": "dugun-nikah",
+    "ad": "Düğün & Nikâh",
+    "aciklama": "Nikâh masasından davet sonuna kadar her detay.",
+    "kapakGorsel": "",
+    "sira": 2,
+    "aktif": true
+  },
+  {
+    "id": "kat-kina",
+    "slug": "kina",
+    "ad": "Kına",
+    "aciklama": "Kına gecesine sıcak ve geleneksel dokunuşlar.",
+    "kapakGorsel": "",
+    "sira": 3,
+    "aktif": true
+  },
+  {
+    "id": "kat-bebek",
+    "slug": "bebek-mevlut",
+    "ad": "Bebek & Mevlüt",
+    "aciklama": "Mevlüt ve bebek kutlamaları için nazik hediyelikler.",
+    "kapakGorsel": "",
+    "sira": 4,
+    "aktif": true
+  },
+  {
+    "id": "kat-sevgili",
+    "slug": "sevgiliye",
+    "ad": "Sevgiliye",
+    "aciklama": "Yıl dönümü, sevgililer günü ve sürpriz anlar için kişiye özel hediyeler.",
+    "kapakGorsel": "img/urunler/ani-gazetesi-posteri/ani-gazetesi-posteri-01.webp",
+    "sira": 5,
+    "aktif": true
+  },
+  {
+    "id": "kat-dogumgunu",
+    "slug": "dogum-gunu",
+    "ad": "Doğum Günü",
+    "aciklama": "Doğum günü sürprizleri ve parti sonu hediyelikleri için kişiye özel seçenekler.",
+    "kapakGorsel": "img/urunler/dogum-gunu-cercevesi/dogum-gunu-cercevesi-01.webp",
+    "sira": 6,
+    "aktif": true
+  },
+  {
+    "id": "kat-kupa",
+    "slug": "kupa-bardak",
+    "ad": "Kupa & Bardak",
+    "aciklama": "Kişiye özel baskılı kupalar, bardaklar ve çift setleri.",
+    "kapakGorsel": "img/urunler/kisiye-ozel-kupa/kisiye-ozel-kupa-01.webp",
+    "sira": 7,
+    "aktif": true
+  }
+]

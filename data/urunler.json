@@ -1,0 +1,672 @@
+[
+  {
+    "id": "u015",
+    "slug": "ani-cercevesi",
+    "kod": "MD-0015",
+    "ad": "Altın MDF Fotoğraf Çerçevesi 15x20",
+    "kategoriIdleri": [
+      "kat-sevgili"
+    ],
+    "kisaAciklama": "15x20 cm fotoğraflar için altın renk MDF çerçeve, 18x23 cm dış ölçü",
+    "aciklama": "15x20 cm (6\"x8\") fotoğraflar için tasarlanan altın renk MDF fotoğraf çerçevesi, klasik ve modern dekorasyonla uyumlu sade bir çizgiye sahiptir.\n18x23 cm dış ölçüsü ve 15 mm genişliğindeki MDF profili sayesinde hem dayanıklı hem hafiftir.\n\nArkasındaki ayak sayesinde masaüstünde dikey ya da yatay kullanılabilir, dilerseniz duvara da asılır.\n\nDüğün ve nişan fotoğrafları, aile portreleri ve ofis dekorasyonu için uygundur.",
+    "fiyat": 185,
+    "indirimliFiyat": null,
+    "fiyatBirimi": "adet",
+    "minimumAdet": 1,
+    "stokDurumu": "siparise-ozel",
+    "hazirlanmaSuresi": "3-5 iş günü",
+    "kisisellestirme": {
+      "aktif": true,
+      "alanlar": [
+        "isim",
+        "tarih"
+      ]
+    },
+    "ozellikler": [
+      {
+        "etiket": "Fotoğraf ölçüsü",
+        "deger": "15 x 20 cm (6\"x8\")"
+      },
+      {
+        "etiket": "Dış ölçü",
+        "deger": "18 x 23 cm"
+      },
+      {
+        "etiket": "Profil genişliği",
+        "deger": "15 mm"
+      },
+      {
+        "etiket": "Malzeme",
+        "deger": "MDF"
+      },
+      {
+        "etiket": "Renk",
+        "deger": "Altın"
+      },
+      {
+        "etiket": "Kullanım",
+        "deger": "Masaüstü ve duvar — dikey veya yatay"
+      }
+    ],
+    "gorseller": [
+      {
+        "yol": "img/urunler/ani-cercevesi/ani-cercevesi-01.webp",
+        "alt": "Altın MDF fotoğraf çerçevesi — masaüstünde yatay kullanım",
+        "genislik": 1276,
+        "yukseklik": 1233
+      },
+      {
+        "yol": "img/urunler/ani-cercevesi/ani-cercevesi-02.webp",
+        "alt": "Altın MDF fotoğraf çerçevesi — 15x20 cm dikey kullanım",
+        "genislik": 1119,
+        "yukseklik": 1405
+      },
+      {
+        "yol": "img/urunler/ani-cercevesi/ani-cercevesi-03.webp",
+        "alt": "Altın MDF fotoğraf çerçevesi — arka ayak detayı",
+        "genislik": 1219,
+        "yukseklik": 1290
+      }
+    ],
+    "etiketler": [
+      "çerçeve",
+      "altın",
+      "mdf",
+      "15x20",
+      "masaüstü",
+      "duvar"
+    ],
+    "oneCikan": true,
+    "yeni": true,
+    "yayinda": true,
+    "sira": 15,
+    "olusturma": "2026-09-21T10:00:00.000Z",
+    "guncelleme": "2026-09-21T10:00:00.000Z"
+  },
+  {
+    "id": "u018",
+    "slug": "dogum-gunu-cercevesi",
+    "kod": "MD-0018",
+    "ad": "Doğum Günü Anı Posteri",
+    "kategoriIdleri": [
+      "kat-dogumgunu"
+    ],
+    "kisaAciklama": "Fotoğrafınızla hazırlanan, çerçeveli doğum günü posteri",
+    "aciklama": "Gönderdiğiniz fotoğraf, renkli balon, pasta ve flama çizimleriyle birleştirilerek doğum gününe özel bir poster haline getirilir.\nİsim, yaş ve tarih tasarıma işlenir; siyah çerçevesiyle hazır olarak teslim edilir.\n\nTasarımı üretime başlamadan önce dijital örnek olarak onayınıza gönderiyoruz.",
+    "fiyat": 260,
+    "indirimliFiyat": null,
+    "fiyatBirimi": "adet",
+    "minimumAdet": 1,
+    "stokDurumu": "siparise-ozel",
+    "hazirlanmaSuresi": "3-5 iş günü",
+    "kisisellestirme": {
+      "aktif": true,
+      "alanlar": [
+        "isim",
+        "tarih",
+        "not"
+      ]
+    },
+    "ozellikler": [
+      {
+        "etiket": "Ölçü",
+        "deger": "21 x 30 cm (A4) çerçeveli"
+      },
+      {
+        "etiket": "Malzeme",
+        "deger": "Mat kuşe baskı + ahşap çerçeve"
+      },
+      {
+        "etiket": "Çerçeve rengi",
+        "deger": "Siyah"
+      }
+    ],
+    "gorseller": [
+      {
+        "yol": "img/urunler/dogum-gunu-cercevesi/dogum-gunu-cercevesi-01.webp",
+        "alt": "Doğum Günü Anı Posteri — duvarda siyah çerçeveli görünüm",
+        "genislik": 900,
+        "yukseklik": 1600
+      }
+    ],
+    "etiketler": [
+      "poster",
+      "çerçeve",
+      "doğum günü",
+      "fotoğraflı",
+      "kişiye özel"
+    ],
+    "oneCikan": false,
+    "yeni": true,
+    "yayinda": true,
+    "sira": 18,
+    "olusturma": "2026-09-21T10:00:00.000Z",
+    "guncelleme": "2026-09-21T10:00:00.000Z"
+  },
+  {
+    "id": "u019",
+    "slug": "kisiye-ozel-kupa",
+    "kod": "MD-0019",
+    "ad": "Kişiye Özel Termos Kupa 500 ml",
+    "kategoriIdleri": [
+      "kat-kupa"
+    ],
+    "kisaAciklama": "Kapaklı, silikon tutamaklı seramik termos kupa — süblimasyon baskı",
+    "aciklama": "Kapaklı ve silikonlu seramik termos kupa, kahve keyfini yolda da sürdürmek isteyenler için.\nBirinci sınıf ithal seramik gövdesi, süblimasyon kaplaması sayesinde tasarımınızı canlı ve kalıcı renklerle taşır.\n\nSızdırmazlığı destekleyen kapağı ve elinizi yakmayan silikon halkası günlük kullanımı rahatlatır. 6 x 25,5 cm panoramik baskı alanı, kupanın çevresini saran geniş tasarımlara izin verir.\n\nİstediğiniz fotoğraf, isim ve yazıyı gönderin; üretime başlamadan önce dijital örneği onayınıza sunuyoruz.",
+    "fiyat": 180,
+    "indirimliFiyat": null,
+    "fiyatBirimi": "adet",
+    "minimumAdet": 1,
+    "stokDurumu": "siparise-ozel",
+    "hazirlanmaSuresi": "3-5 iş günü",
+    "kisisellestirme": {
+      "aktif": true,
+      "alanlar": [
+        "isim",
+        "tarih",
+        "not"
+      ]
+    },
+    "ozellikler": [
+      {
+        "etiket": "Ürün tipi",
+        "deger": "Kapaklı ve silikonlu seramik termos kupa"
+      },
+      {
+        "etiket": "Malzeme",
+        "deger": "Birinci sınıf ithal seramik"
+      },
+      {
+        "etiket": "Ölçü",
+        "deger": "Yükseklik 15 cm x Çap 8 cm"
+      },
+      {
+        "etiket": "Hacim",
+        "deger": "500 ml / 17 oz"
+      },
+      {
+        "etiket": "Ağırlık",
+        "deger": "475 gr (tek adet)"
+      },
+      {
+        "etiket": "Baskı alanı",
+        "deger": "6 cm x 25,5 cm"
+      },
+      {
+        "etiket": "Baskı tekniği",
+        "deger": "Süblimasyon"
+      }
+    ],
+    "gorseller": [
+      {
+        "yol": "img/urunler/kisiye-ozel-kupa/kisiye-ozel-kupa-01.webp",
+        "alt": "Kişiye Özel Termos Kupa — çift illüstrasyonlu tasarım, kapağı takılı",
+        "genislik": 1145,
+        "yukseklik": 1374
+      },
+      {
+        "yol": "img/urunler/kisiye-ozel-kupa/kisiye-ozel-kupa-02.webp",
+        "alt": "Kişiye Özel Termos Kupa — çocuk temalı tasarım",
+        "genislik": 1145,
+        "yukseklik": 1374
+      },
+      {
+        "yol": "img/urunler/kisiye-ozel-kupa/kisiye-ozel-kupa-03.webp",
+        "alt": "Kişiye Özel Termos Kupa — kapağı ve silikon tabanı çıkarılmış görünüm",
+        "genislik": 1145,
+        "yukseklik": 1374
+      },
+      {
+        "yol": "img/urunler/kisiye-ozel-kupa/kisiye-ozel-kupa-04.webp",
+        "alt": "Kişiye Özel Termos Kupa — pembe temalı karakter tasarımı",
+        "genislik": 1145,
+        "yukseklik": 1374
+      }
+    ],
+    "etiketler": [
+      "kupa",
+      "termos",
+      "seramik",
+      "süblimasyon",
+      "kişiye özel",
+      "500 ml"
+    ],
+    "oneCikan": true,
+    "yeni": true,
+    "yayinda": true,
+    "sira": 19,
+    "olusturma": "2026-09-21T10:00:00.000Z",
+    "guncelleme": "2026-09-21T10:00:00.000Z"
+  },
+  {
+    "id": "u022",
+    "slug": "fotograf-puzzle",
+    "kod": "MD-0022",
+    "ad": "Fotoğraf Puzzle",
+    "kategoriIdleri": [
+      "kat-sevgili"
+    ],
+    "kisaAciklama": "Fotoğrafınızdan hazırlanan, çerçeveli puzzle",
+    "aciklama": "Gönderdiğiniz fotoğraf yüksek çözünürlükte basılıp puzzle parçalarına ayrılır; çerçevesiyle birlikte kutulu olarak teslim edilir.\nYıl dönümü ve sürpriz hediyeler için hem eğlenceli hem kalıcı bir seçenek.\n\nTasarımı üretime başlamadan önce dijital örnek olarak onayınıza gönderiyoruz.",
+    "fiyat": 320,
+    "indirimliFiyat": null,
+    "fiyatBirimi": "adet",
+    "minimumAdet": 1,
+    "stokDurumu": "siparise-ozel",
+    "hazirlanmaSuresi": "3-5 iş günü",
+    "kisisellestirme": {
+      "aktif": true,
+      "alanlar": [
+        "isim",
+        "tarih",
+        "not"
+      ]
+    },
+    "ozellikler": [
+      {
+        "etiket": "Ölçü",
+        "deger": "21 x 30 cm"
+      },
+      {
+        "etiket": "Parça sayısı",
+        "deger": "64 parça"
+      },
+      {
+        "etiket": "Malzeme",
+        "deger": "Mukavva puzzle + MDF çerçeve"
+      },
+      {
+        "etiket": "Çerçeve rengi",
+        "deger": "Pudra"
+      }
+    ],
+    "gorseller": [
+      {
+        "yol": "img/urunler/fotograf-puzzle/fotograf-puzzle-01.webp",
+        "alt": "Fotoğraf Puzzle — pudra çerçeveli, tamamlanmış puzzle",
+        "genislik": 1254,
+        "yukseklik": 1254
+      }
+    ],
+    "etiketler": [
+      "puzzle",
+      "fotoğraflı",
+      "sevgiliye",
+      "çerçeveli"
+    ],
+    "oneCikan": false,
+    "yeni": true,
+    "yayinda": true,
+    "sira": 22,
+    "olusturma": "2026-09-21T10:00:00.000Z",
+    "guncelleme": "2026-09-21T10:00:00.000Z"
+  },
+  {
+    "id": "u023",
+    "slug": "film-afisi-cercevesi",
+    "kod": "MD-0023",
+    "ad": "Film Afişi Çerçevesi",
+    "kategoriIdleri": [
+      "kat-sevgili"
+    ],
+    "kisaAciklama": "Dizi/film afişi düzeninde, çerçeveli kişiye özel tasarım",
+    "aciklama": "Fotoğrafınız bir film afişi düzenine yerleştirilir; başlık, tür, tarih ve kısa hikâye metni size göre yazılır.\nÇift, arkadaş grubu ve aile için ayrı tasarım seçenekleri vardır.\n\nMetinleri ve fotoğrafı gönderin; üretime başlamadan önce dijital örneği onayınıza sunuyoruz.",
+    "fiyat": 340,
+    "indirimliFiyat": null,
+    "fiyatBirimi": "adet",
+    "minimumAdet": 1,
+    "stokDurumu": "siparise-ozel",
+    "hazirlanmaSuresi": "3-5 iş günü",
+    "kisisellestirme": {
+      "aktif": true,
+      "alanlar": [
+        "isim",
+        "tarih",
+        "not"
+      ]
+    },
+    "ozellikler": [
+      {
+        "etiket": "Ölçü",
+        "deger": "21 x 30 cm (A4) çerçeveli"
+      },
+      {
+        "etiket": "Malzeme",
+        "deger": "Mat kuşe baskı + ahşap çerçeve"
+      },
+      {
+        "etiket": "Çerçeve rengi",
+        "deger": "Siyah"
+      }
+    ],
+    "gorseller": [
+      {
+        "yol": "img/urunler/film-afisi-cercevesi/film-afisi-cercevesi-01.webp",
+        "alt": "Film Afişi Çerçevesi — çift ve arkadaş grubu tasarımları",
+        "genislik": 1254,
+        "yukseklik": 1254
+      }
+    ],
+    "etiketler": [
+      "afiş",
+      "poster",
+      "çerçeve",
+      "sevgiliye",
+      "kişiye özel"
+    ],
+    "oneCikan": false,
+    "yeni": true,
+    "yayinda": true,
+    "sira": 23,
+    "olusturma": "2026-09-21T10:00:00.000Z",
+    "guncelleme": "2026-09-21T10:00:00.000Z"
+  },
+  {
+    "id": "u024",
+    "slug": "ani-gazetesi-posteri",
+    "kod": "MD-0024",
+    "ad": "Anı Gazetesi Posteri",
+    "kategoriIdleri": [
+      "kat-sevgili"
+    ],
+    "kisaAciklama": "Gazete sayfası düzeninde, iki fotoğraflı anı posteri",
+    "aciklama": "İki fotoğrafınız ve yazdığınız metinler klasik bir gazete sayfası düzeninde birleştirilir; isimler, tarih ve başlıklar size özel dizilir.\nÇerçevesiyle birlikte hazır olarak teslim edilir.\n\nMetinleri ve fotoğrafları gönderin; üretime başlamadan önce dijital örneği onayınıza sunuyoruz.",
+    "fiyat": 340,
+    "indirimliFiyat": null,
+    "fiyatBirimi": "adet",
+    "minimumAdet": 1,
+    "stokDurumu": "siparise-ozel",
+    "hazirlanmaSuresi": "3-5 iş günü",
+    "kisisellestirme": {
+      "aktif": true,
+      "alanlar": [
+        "isim",
+        "tarih",
+        "not"
+      ]
+    },
+    "ozellikler": [
+      {
+        "etiket": "Ölçü",
+        "deger": "21 x 30 cm (A4) çerçeveli"
+      },
+      {
+        "etiket": "Malzeme",
+        "deger": "Mat kuşe baskı + ahşap çerçeve"
+      },
+      {
+        "etiket": "Çerçeve rengi",
+        "deger": "Siyah"
+      },
+      {
+        "etiket": "Fotoğraf sayısı",
+        "deger": "2 adet"
+      }
+    ],
+    "gorseller": [
+      {
+        "yol": "img/urunler/ani-gazetesi-posteri/ani-gazetesi-posteri-01.webp",
+        "alt": "Anı Gazetesi Posteri — siyah çerçeveli, iki fotoğraflı tasarım",
+        "genislik": 1254,
+        "yukseklik": 1254
+      }
+    ],
+    "etiketler": [
+      "poster",
+      "gazete",
+      "anı",
+      "sevgiliye",
+      "fotoğraflı"
+    ],
+    "oneCikan": false,
+    "yeni": true,
+    "yayinda": true,
+    "sira": 24,
+    "olusturma": "2026-09-21T10:00:00.000Z",
+    "guncelleme": "2026-09-21T10:00:00.000Z"
+  },
+  {
+    "id": "u025",
+    "slug": "ask-posteri",
+    "kod": "MD-0025",
+    "ad": "Aşk Posteri",
+    "kategoriIdleri": [
+      "kat-sevgili"
+    ],
+    "kisaAciklama": "Fotoğraflarınız ve yazınızla hazırlanan, siyah çerçeveli poster",
+    "aciklama": "Fotoğraflarınız, isimleriniz ve özel tarihiniz sade bir poster düzeninde birleştirilir; siyah çerçevesiyle birlikte hazır teslim edilir.\nBeş ayrı tasarım seçeneği var: LOVE kolajı, dörtlü film şeridi, tek fotoğraflı siyah-beyaz, kalp desenli ve dikey kolaj.\n\nGönderdiğiniz fotoğrafla tasarımı biz hazırlıyoruz; üretime başlamadan önce dijital örneği onayınıza gönderiyoruz.",
+    "fiyat": null,
+    "indirimliFiyat": null,
+    "fiyatBirimi": "adet",
+    "minimumAdet": 1,
+    "stokDurumu": "siparise-ozel",
+    "hazirlanmaSuresi": "3-5 iş günü",
+    "kisisellestirme": {
+      "aktif": true,
+      "alanlar": [
+        "isim",
+        "tarih",
+        "not"
+      ]
+    },
+    "ozellikler": [
+      {
+        "etiket": "Ölçü",
+        "deger": "A4 / A3 çerçeveli"
+      },
+      {
+        "etiket": "Malzeme",
+        "deger": "Mat kuşe baskı + ahşap çerçeve"
+      },
+      {
+        "etiket": "Çerçeve rengi",
+        "deger": "Siyah"
+      },
+      {
+        "etiket": "Fotoğraf sayısı",
+        "deger": "Tasarıma göre 1-4 adet"
+      }
+    ],
+    "gorseller": [
+      {
+        "yol": "img/urunler/ask-posteri/ask-posteri-01.webp",
+        "alt": "Aşk Posteri — LOVE yazılı, üç fotoğraflı kolaj tasarımı",
+        "genislik": 1106,
+        "yukseklik": 1422
+      },
+      {
+        "yol": "img/urunler/ask-posteri/ask-posteri-02.webp",
+        "alt": "Aşk Posteri — dörtlü dikey fotoğraf şeridi ve isim-tarih tasarımı",
+        "genislik": 1024,
+        "yukseklik": 1536
+      },
+      {
+        "yol": "img/urunler/ask-posteri/ask-posteri-03.webp",
+        "alt": "Aşk Posteri — tek fotoğraflı siyah-beyaz tasarım",
+        "genislik": 918,
+        "yukseklik": 1600
+      },
+      {
+        "yol": "img/urunler/ask-posteri/ask-posteri-04.webp",
+        "alt": "Aşk Posteri — film şeridi düzeninde dört fotoğraflı tasarım",
+        "genislik": 1024,
+        "yukseklik": 1536
+      },
+      {
+        "yol": "img/urunler/ask-posteri/ask-posteri-05.webp",
+        "alt": "Aşk Posteri — kırmızı kalp desenli tek fotoğraflı tasarım",
+        "genislik": 1024,
+        "yukseklik": 1536
+      }
+    ],
+    "etiketler": [
+      "poster",
+      "çerçeve",
+      "sevgiliye",
+      "fotoğraflı",
+      "yıl dönümü"
+    ],
+    "oneCikan": false,
+    "yeni": true,
+    "yayinda": true,
+    "sira": 25,
+    "olusturma": "2026-09-21T10:00:00.000Z",
+    "guncelleme": "2026-09-21T10:00:00.000Z"
+  },
+  {
+    "id": "u026",
+    "slug": "sevgili-magneti",
+    "kod": "MD-0026",
+    "ad": "Kalp Ahşap Fotoğraf Panosu",
+    "kategoriIdleri": [
+      "kat-sevgili"
+    ],
+    "kisaAciklama": "Kalp kesim ahşap üzerine fotoğraf baskısı, masaüstü",
+    "aciklama": "Kalp şeklinde kesilmiş ahşap yüzeye fotoğrafınız ve seçtiğiniz yazı doğrudan basılır.\nMasaüstünde kendi kendine durur; sevgili, aile ve evcil hayvan fotoğrafları için uygundur.\n\nGönderdiğiniz fotoğrafla tasarımı biz hazırlıyoruz; üretime başlamadan önce dijital örneği onayınıza gönderiyoruz.",
+    "fiyat": null,
+    "indirimliFiyat": null,
+    "fiyatBirimi": "adet",
+    "minimumAdet": 1,
+    "stokDurumu": "siparise-ozel",
+    "hazirlanmaSuresi": "3-5 iş günü",
+    "kisisellestirme": {
+      "aktif": true,
+      "alanlar": [
+        "isim",
+        "tarih",
+        "not"
+      ]
+    },
+    "ozellikler": [
+      {
+        "etiket": "Şekil",
+        "deger": "Kalp kesim"
+      },
+      {
+        "etiket": "Malzeme",
+        "deger": "Ahşap"
+      },
+      {
+        "etiket": "Kullanım",
+        "deger": "Masaüstü"
+      }
+    ],
+    "gorseller": [
+      {
+        "yol": "img/urunler/sevgili-magneti/sevgili-magneti-01.webp",
+        "alt": "Kalp ahşap fotoğraf panosu — çift fotoğraflı, İstanbul manzaralı tasarım",
+        "genislik": 1254,
+        "yukseklik": 1254
+      },
+      {
+        "yol": "img/urunler/sevgili-magneti/sevgili-magneti-02.webp",
+        "alt": "Kalp ahşap fotoğraf panosu — aile fotoğraflı tasarım",
+        "genislik": 1254,
+        "yukseklik": 1254
+      },
+      {
+        "yol": "img/urunler/sevgili-magneti/sevgili-magneti-03.webp",
+        "alt": "Kalp ahşap fotoğraf panosu — yön tabelası detaylı çift tasarımı",
+        "genislik": 1254,
+        "yukseklik": 1254
+      },
+      {
+        "yol": "img/urunler/sevgili-magneti/sevgili-magneti-04.webp",
+        "alt": "Kalp ahşap fotoğraf panosu — evcil hayvan fotoğraflı tasarım",
+        "genislik": 1254,
+        "yukseklik": 1254
+      }
+    ],
+    "etiketler": [
+      "ahşap",
+      "kalp",
+      "fotoğraflı",
+      "sevgiliye",
+      "masaüstü"
+    ],
+    "oneCikan": false,
+    "yeni": true,
+    "yayinda": true,
+    "sira": 26,
+    "olusturma": "2026-09-21T10:00:00.000Z",
+    "guncelleme": "2026-09-21T10:00:00.000Z"
+  },
+  {
+    "id": "u027",
+    "slug": "fotografli-kupa",
+    "kod": "MD-0027",
+    "ad": "Kişiye Özel Fotoğraflı Kupa",
+    "kategoriIdleri": [
+      "kat-kupa"
+    ],
+    "kisaAciklama": "Kulplu seramik kupa üzerine fotoğraf ve yazı baskısı",
+    "aciklama": "Klasik kulplu seramik kupaya fotoğrafınız, isimleriniz ve seçtiğiniz yazı süblimasyon tekniğiyle basılır.\nSevgiliye, aileye ve çocuklara yönelik hazır tasarım seçenekleri var; dilerseniz kendi tasarımınızı da gönderebilirsiniz.\n\nGönderdiğiniz fotoğrafla tasarımı biz hazırlıyoruz; üretime başlamadan önce dijital örneği onayınıza gönderiyoruz.",
+    "fiyat": null,
+    "indirimliFiyat": null,
+    "fiyatBirimi": "adet",
+    "minimumAdet": 1,
+    "stokDurumu": "siparise-ozel",
+    "hazirlanmaSuresi": "3-5 iş günü",
+    "kisisellestirme": {
+      "aktif": true,
+      "alanlar": [
+        "isim",
+        "tarih",
+        "not"
+      ]
+    },
+    "ozellikler": [
+      {
+        "etiket": "Ürün tipi",
+        "deger": "Kulplu seramik kupa"
+      },
+      {
+        "etiket": "Malzeme",
+        "deger": "Seramik"
+      },
+      {
+        "etiket": "Baskı tekniği",
+        "deger": "Süblimasyon"
+      }
+    ],
+    "gorseller": [
+      {
+        "yol": "img/urunler/fotografli-kupa/fotografli-kupa-01.webp",
+        "alt": "Kişiye Özel Fotoğraflı Kupa — çiçek desenli çocuk illüstrasyonlu tasarım",
+        "genislik": 1117,
+        "yukseklik": 1408
+      },
+      {
+        "yol": "img/urunler/fotografli-kupa/fotografli-kupa-02.webp",
+        "alt": "Kişiye Özel Fotoğraflı Kupa — gün batımında çift ve evcil hayvan illüstrasyonu",
+        "genislik": 1117,
+        "yukseklik": 1408
+      },
+      {
+        "yol": "img/urunler/fotografli-kupa/fotografli-kupa-03.webp",
+        "alt": "Kişiye Özel Fotoğraflı Kupa — fotoğraflı romantik tasarım",
+        "genislik": 1117,
+        "yukseklik": 1408
+      },
+      {
+        "yol": "img/urunler/fotografli-kupa/fotografli-kupa-04.webp",
+        "alt": "Kişiye Özel Fotoğraflı Kupa — siyah-beyaz fotoğraflı, isim ve tarihli tasarım",
+        "genislik": 1117,
+        "yukseklik": 1408
+      }
+    ],
+    "etiketler": [
+      "kupa",
+      "seramik",
+      "süblimasyon",
+      "fotoğraflı",
+      "kişiye özel"
+    ],
+    "oneCikan": false,
+    "yeni": true,
+    "yayinda": true,
+    "sira": 27,
+    "olusturma": "2026-09-21T10:00:00.000Z",
+    "guncelleme": "2026-09-21T10:00:00.000Z"
+  }
+]

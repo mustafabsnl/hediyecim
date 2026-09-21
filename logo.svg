@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="220" height="120" role="img" aria-label="Marka logosu">
+  <g fill="none" stroke="#3d2429" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 84 C40 50, 62 34, 110 34 C158 34, 180 50, 180 84"/>
+    <path d="M62 84 C62 62, 80 52, 110 52 C140 52, 158 62, 158 84"/>
+    <path d="M110 34 L110 18"/>
+  </g>
+  <path d="M110 6 L114 16 L124 20 L114 24 L110 34 L106 24 L96 20 L106 16 Z" fill="#7d6226"/>
+  <path d="M40 96 L180 96" stroke="#7d6226" stroke-width="1.6"/>
+</svg>

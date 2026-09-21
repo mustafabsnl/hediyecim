@@ -1,0 +1,113 @@
+{
+  "duyuruBandi": {
+    "aktif": true,
+    "metin": "Düğün sezonu siparişleri için 3 hafta önceden yazmanızı öneririz."
+  },
+  "hero": {
+    "ustEtiket": "Kişiye özel tasarım atölyesi",
+    "baslik": "Hatıraların",
+    "italikKisim": "zarif hali.",
+    "altSatir": "Nişandan mevlüde, özel günleriniz için elde hazırlanan hediyelikler."
+  },
+  "hakkimizda": {
+    "baslik": "Her detay, size özel.",
+    "paragraflar": [
+      "Küçük bir atölyede; nişan ve söz masalarından düğün davetlerine, kına gecelerinden bebek mevlütlerine kadar özel günlerinizin sunumlarını hazırlıyoruz. Yelpaze, ayna, kolonya, mum, magnet, çikolata, tepsi ve sunum setleri — hepsi tek tek elden geçiyor.",
+      "İsim, tarih, renk ve ambalaj seçimlerini sizinle birlikte belirliyoruz. Siparişi onaylamadan önce dijital örneği paylaşıyor, adet ve teslim tarihini birlikte planlıyoruz. Amacımız, misafirinizin eline geçen küçük hediyenin o günü hatırlatmaya devam etmesi."
+    ],
+    "kapanis": "Sevgiyle tasarlanır, özenle hazırlanır.",
+    "nasilCalisiyoruz": [
+      {
+        "baslik": "Dinliyoruz",
+        "metin": "Hangi gün için, kaç kişilik ve nasıl bir sunum istediğinizi konuşuyoruz. Bütçenizi ve teslim tarihinizi baştan netleştiriyoruz."
+      },
+      {
+        "baslik": "Tasarlıyoruz",
+        "metin": "İsim, tarih, renk ve yazı tipini birlikte seçiyoruz. Üretime başlamadan önce yerleşimi gösteren dijital örneği onayınıza gönderiyoruz."
+      },
+      {
+        "baslik": "Elde hazırlıyoruz",
+        "metin": "Onayınızdan sonra her parça atölyede tek tek hazırlanıyor, paketleniyor ve son kontrolden geçiyor."
+      },
+      {
+        "baslik": "Gönderiyoruz",
+        "metin": "Kırılabilir ürünleri çift koruma ile paketleyip anlaşmalı kargoyla gönderiyoruz; takip numarasını sizinle paylaşıyoruz."
+      }
+    ]
+  },
+  "siparisAdimlari": [
+    {
+      "baslik": "Ürünü seçin",
+      "metin": "Koleksiyondan beğendiğiniz ürünü açın; adet, ölçü, hazırlanma süresi ve renk seçeneklerini görün."
+    },
+    {
+      "baslik": "Detayları yazın",
+      "metin": "İsim, tarih, renk ve notunuzu girin. Hazır mesajınız siz yazdıkça aşağıda oluşur."
+    },
+    {
+      "baslik": "WhatsApp veya Instagram’dan onaylayın",
+      "metin": "Mesajı tek dokunuşla gönderin. Dijital örneği onayınıza sunalım, teslim tarihini birlikte planlayalım."
+    }
+  ],
+  "siparisBilgi": "Ürünlerin çoğu 5-10 iş günü içinde hazırlanır; tepsi ve sunum setleri gibi el işçiliği yoğun parçalarda bu süre 15 iş gününe kadar çıkabilir. Yoğun düğün sezonunda (Mayıs-Eylül) siparişinizi 3 hafta önceden vermenizi öneriyoruz.\n\nMinimum adet ürüne göre değişir ve her ürünün sayfasında yazar: küçük hediyelikler genellikle en az 20-50 adet, tepsi ve sunum setleri ise tek adet hazırlanabilir. Ödeme, siparişi onayladıktan sonra havale veya EFT ile alınır; sitede sepet ya da kart işlemi yoktur.",
+  "sayfalar": {
+    "hakkimizda": {
+      "baslik": "Her detay, size özel.",
+      "ustEtiket": "Atölyemiz",
+      "altSatir": "Küçük bir atölyede, özel günleriniz için tek tek elden geçen hediyelikler hazırlıyoruz.",
+      "aciklama": "Nişan, düğün, kına ve mevlüt hediyelikleri hazırlayan atölyemiz, çalışma biçimimiz ve hizmet verdiğimiz özel günler."
+    },
+    "sss": {
+      "baslik": "Sık sorulanlar",
+      "ustEtiket": "Yardım",
+      "altSatir": "Adet, hazırlık süresi, kargo ve kişiselleştirme hakkında en çok sorulanlar.",
+      "aciklama": "Sipariş adedi, hazırlanma süresi, kargo ve kişiselleştirme hakkında sık sorulan sorular ve cevapları."
+    },
+    "iletisim": {
+      "baslik": "Bize ulaşın",
+      "ustEtiket": "İletişim",
+      "altSatir": "En hızlı yanıtı WhatsApp’tan alırsınız; Instagram mesajlarına da aynı gün dönüyoruz.",
+      "aciklama": "WhatsApp, Instagram, e-posta ve çalışma saatlerimiz. Siparişleriniz için bize doğrudan yazabilirsiniz."
+    },
+    "siparis": {
+      "baslik": "Sipariş nasıl verilir?",
+      "ustEtiket": "Üç adım",
+      "altSatir": "Sepet ve ödeme yok: ürünü seçin, detayları yazın, mesajı gönderin.",
+      "aciklama": "Ürün seçiminden teslimata kadar sipariş sürecimiz, hazırlanma süreleri ve minimum adet bilgisi."
+    }
+  },
+  "sss": [
+    {
+      "soru": "En az kaç adet sipariş verebilirim?",
+      "cevap": "Ürüne göre değişiyor; kartın ve ürün sayfasının üzerinde minimum adet yazıyor. Tepsi ve sunum setleri tek adet hazırlanabiliyor."
+    },
+    {
+      "soru": "Hazırlık ne kadar sürüyor?",
+      "cevap": "Çoğu üründe 5-10 iş günü. Yoğun düğün sezonunda süre uzayabildiği için 3 hafta önceden yazmanızı öneriyoruz."
+    },
+    {
+      "soru": "Kargo gönderiyor musunuz?",
+      "cevap": "Evet, Türkiye'nin her yerine anlaşmalı kargo ile gönderiyoruz. Kırılabilir ürünler çift koruma ile paketleniyor."
+    },
+    {
+      "soru": "Örnek görebilir miyim?",
+      "cevap": "Üretime başlamadan önce isim ve tarih yerleşimini gösteren dijital örneği gönderiyoruz; onayınızdan sonra üretime geçiyoruz."
+    },
+    {
+      "soru": "Renk ve ambalajı değiştirebilir miyim?",
+      "cevap": "Elbette. Ürün sayfasındaki renk seçeneklerinin dışında bir ton istiyorsanız WhatsApp'tan yazmanız yeterli."
+    }
+  ],
+  "mesajSablonlari": {
+    "whatsapp": "",
+    "instagram": "",
+    "genel": ""
+  },
+  "iletisim": {
+    "whatsapp": "905000000000",
+    "instagram": "instagram_kullanici",
+    "eposta": "",
+    "adres": "Şehir",
+    "saatler": "Hafta içi 10:00 - 18:00"
+  }
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /hediyecim/
+Disallow: /hediyecim/yonetim/
+
+Sitemap: https://mustafabsnl.github.io/hediyecim/sitemap.xml
